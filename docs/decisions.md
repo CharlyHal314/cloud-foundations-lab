@@ -3,11 +3,11 @@
 ## Formato
 
 ```text
-Decision:
-Contexto:
-Alternativas:
-Tradeoff:
-Resultado:
+Decision: Test
+Contexto: Test
+Alternativas: Test
+Tradeoff: Test
+Resultado: Test
 ```
 
 ## Decisiones
